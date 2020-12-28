@@ -813,3 +813,26 @@
     opacity: 1;
   }
 }
+
+@media only screen and (max-width: 600px){
+	.container{
+		 width: 400px;
+  		 height: 400px;
+		 top: 25%;
+ 		 left: 3%;
+	}
+	
+	.screen{
+		padding-top:100%;		
+	}
+	
+	.screen2{
+		margin-top:12%;
+	}
+	
+	.screen3{
+		margin-top:12%;
+	}
+	
+}
+

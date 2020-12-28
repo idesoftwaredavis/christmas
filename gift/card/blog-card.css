@@ -15,7 +15,7 @@
   left: 50%;
   margin: 0 auto;
   overflow: hidden;
-  border-radius: 40%;
+  border-radius: 30%;
   box-shadow: 0px 10px 20px -9px rgba(0, 0, 0, 0.5);
   text-align: center;
   transition:all 0.4s;
@@ -125,14 +125,14 @@ h3:after {
   text-decoration:underline
 }
 .card-info {
-  
-   box-sizing: border-box;
+
+  box-sizing: border-box;
   padding: 0;
   width: 100%;
   position: absolute;
   bottom: -40px;
   left: 0;
-  top:45px;
+  top:10px;
   margin: 0 auto;
   padding: 0 50px;
   font-style: 16px;
@@ -188,6 +188,9 @@ h3:after {
   .blog-card{
     left:0px;
   }
-
+  .titulo-card{
+  	right:30%;
+  	
+  }
 
 }
